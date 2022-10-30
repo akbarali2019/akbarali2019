@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Akbarali Otakhanov  
 - 👀 I’m interested in Artificial Intelligence and development of Software applications connected with AI models.
-- 🌱 I’m currently learning C# and IoT 
+- 🌱 I’m currently learning C# and IoT and working as a part-timer at Korea Environment Facility&Analysis (KEFA)
 - 💞️ I’m looking to collaborate on team projects related with deep learning models
 - 📫 How to reach me otakhanov.akbarali@gmail.com
 
