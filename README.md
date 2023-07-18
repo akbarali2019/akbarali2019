@@ -1,7 +1,7 @@
 - 👋 Hi, I’m 알리 (Ali)
 - 👀 I’m interested in Artificial Intelligence and development of Software applications connected with AI models.
 - 🌱 I’m currently learning C# and IoT and working as a Software Developer at Korea Environment Facility&Analysis (KEFA)
-- 💞️ I’m looking to collaborate on team projects related with deep learning models
+- 💞️ I’m looking to collaborate on team projects related with deep learning models and Internet Of Things
 - 📫 How to reach me otakhanov.akbarali@gmail.com
 
 <!---
