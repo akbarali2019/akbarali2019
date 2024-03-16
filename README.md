@@ -3,7 +3,7 @@
 - 🌱 I’m currently working as a Software Engineer at Korea Environment Facility&Analysis (KEFA) on the project based on IoT and .Net Framework
 - 💞️ I’m looking to collaborate on team projects related with deep learning models and Internet Of Things
 - 📫 How to reach me otakhanov.akbarali@gmail.com
-- KEFA KNEXUS Product Info: https://ke-fa.com/default/iot/sub1.php?tm=3&sm=1 
+- ✨ KEFA KNEXUS Product Functionalities Info: https://ke-fa.com/default/iot/sub1.php?tm=3&sm=1 
 
 <!---
 akbarali2019/akbarali2019 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
