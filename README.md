@@ -10,5 +10,5 @@ akbarali2019/akbarali2019 is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-![waf](https://user-images.githubusercontent.com/52565814/225842325-1063060c-acb5-479f-87df-bb0569ad356c.PNG)
+
 
